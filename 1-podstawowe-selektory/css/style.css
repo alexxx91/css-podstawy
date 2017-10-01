@@ -7,3 +7,13 @@ p {
 #drugi-paragraf {
     background-color: darkorange;
 }
+.akademia {
+    background-color: darkseagreen;
+}   
+
+#selektor-potomka > p{
+    background-color: gold;
+}
+#drugi-potomek ~ p{
+    background-color: lime;
+}
