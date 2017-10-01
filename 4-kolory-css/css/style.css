@@ -1,0 +1,18 @@
+body {
+    background-color: lightskyblue
+}
+
+#hexadecimal {
+    background-color: #33ab42;
+}
+
+#skrocony-hexadecymalny {
+    background-color: #f49;
+}
+#rgb {
+    background-color: rgb(33,55,123)
+}
+
+#rgba {
+    background-color: rgba(121, 21, 0, 0.7)
+}
